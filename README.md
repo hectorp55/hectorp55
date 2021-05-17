@@ -14,7 +14,7 @@ A little more about me, my projects, and contact information can be found at <a 
   <a href="#"><img src="https://img.shields.io/badge/HTML-Expert-green?logo=html5"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-Expert-green?logo=css"></a>
   <a href="#"><img src="https://img.shields.io/badge/Unity-Enthusiast-blue?logo=unity"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Readable%20Code-Evangelist-blue"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Readable%20Code-Devotee-blue"></a>
 </p>
 
 ![HectorP55's github stats](https://github-readme-stats.vercel.app/api?username=hectorp55&show_icons=true&hide_border=true)
