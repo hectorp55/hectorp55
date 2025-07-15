@@ -1,10 +1,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=hectorp55.hectorp55)
 
 <h2>@hectorp55</h2>
-<p>Software Enginner at Charles Schwab</p>
+<p>Full-stack Software Enginner</p>
 
 
-<p>I am a software engineer and gamer. I graduated from Texas A&M and am a wannabe game designer and painter.</p>
+<p>Full-stack software engineer with experience building scalable, responsive web applications using modern frameworks and technologies. Skilled in developing and maintaining critical client-facing web applications, with a strong understanding of both front-end and back-end systems.</p>
 
 A little more about me, my projects, and contact information can be found at <a href="https://puga-personalwebsite.web.app/">my website</a>
 
