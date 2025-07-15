@@ -9,7 +9,7 @@
 A little more about me, my projects, and contact information can be found at <a href="https://puga-personalwebsite.web.app/">my website</a>
 
 <p>
-  <a href="https://www.linkedin.com/in/%F0%9F%95%B9juan-hector-puga-407469132/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/hector-puga-407469132"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Angular-Expert-green?logo=angular"></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML-Expert-green?logo=html5"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-Expert-green?logo=css"></a>
